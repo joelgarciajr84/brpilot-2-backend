@@ -1,3 +1,4 @@
 node_modules
 dist
 brpilot-backend.code-workspace
+src/firebase/firebase.json
